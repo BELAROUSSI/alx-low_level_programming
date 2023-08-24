@@ -9,7 +9,7 @@ int main(void)
 	a[2] = 1024;
 	p = &n;
 	/*
-	 * main - check the code
+	 * main - a program that print a[2] = 98
 	 * write your line of code here...
 	 * Remember:
 	 * - you are not allowed to use a
@@ -22,4 +22,3 @@ int main(void)
 	printf("a[2] = %d\n", a[2]);
 	return (0);
 }
-
