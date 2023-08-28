@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+ * main - Entry point.
+ * Return: Always 0 on success.
+ */
+
 int main(void)
 {
 	int n;
@@ -9,7 +14,6 @@ int main(void)
 	a[2] = 1024;
 	p = &n;
 	/*
-	 * main - a program that print a[2] = 98
 	 * write your line of code here...
 	 * Remember:
 	 * - you are not allowed to use a
